@@ -1,2 +1,3 @@
-hello Memoriai!
+﻿hello Memoriai!
 中文乱码吗？
+可能是文件格式不对
